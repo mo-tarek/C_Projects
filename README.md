@@ -3,6 +3,6 @@ List Of C Programming Language Examples and Programs
 
 <h2>Resources</h2>
 <ol>
-  <li> C Programming CrashCourse - Freecodecamp [Done] </li>
-  <li> Data Structures With C - FCIH (Dr. Waleed A. Yousef) [In Progress]<li>
+  <li> C Programming CrashCourse - Freecodecamp <b>[Done]</b> </li>
+  <li> Data Structures With C - FCIH (Dr. Waleed A. Yousef) <b>[In Progress]</b><li>
 </ol>
