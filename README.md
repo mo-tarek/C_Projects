@@ -1,5 +1,5 @@
 # C_Programs
-List Of C Programming Language Examples and Programs 
+List Of C Programming Language Examples, Programs and Projects
 
 ## Resources
 
