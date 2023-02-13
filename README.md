@@ -6,5 +6,6 @@ List Of C Programming Language Examples, Programs and Projects
 ### Videos
 
 1. C Programming CrashCourse - Freecodecamp [Done]
-2. Data Structures With C - FCIH (Dr. Waleed A. Yousef) [In Progress]
+2. C Programming playlist - Dr. Youssef Shawky [Not Started Yet]
+3. Data Structures With C - FCIH (Dr. Waleed A. Yousef) [In Progress]
 
