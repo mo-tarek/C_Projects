@@ -9,3 +9,7 @@ List Of C Programming Language Examples, Programs and Projects
 2. C Programming Playlist - Dr. Youssef Shawky [Not Started Yet]
 3. C Programming Playlist - Portfolio Courses
 3. Data Structures With C - FCIH (Dr. Waleed A. Yousef) [In Progress]
+
+### Books
+
+1. The C Programming Language - Dennis Ritchie & Brian Keringhan
