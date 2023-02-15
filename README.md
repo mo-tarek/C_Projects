@@ -8,6 +8,7 @@ List Of C Programming Language Examples, Programs and Projects
 1. C Programming CrashCourse - Freecodecamp [Done]
 2. C Programming Playlist - Portfolio Courses
 3. C Programming Playlsit - Neso Academy
+3. C Programming Playlist - Jenny's Lectures CS IT
 4. C Programming Playlist - Dr. Youssef Shawky [Not Started Yet]
 5. C Programming Playlist - Mohamed Yousef
 6. Data Structures With C Playlist - FCIH (Dr. Waleed A. Yousef) [In Progress]
