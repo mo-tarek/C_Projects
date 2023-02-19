@@ -1,11 +1,19 @@
 # C_Programs
 List Of C Programming Language Examples, Programs and Projects
 
+## Motivation 
+- Why C is so Influential ? - Computerphile
+
 ## Resources
 
 ### YouTube Videos
 
 1. C Programming CrashCourse - Freecodecamp [Done]
+2. C Programming CrashCourse - Caleb Harry 
+3. C Programming CrashCourse - Code With Harry
+3. C Programming CrashCourse - Portfolio Courses 
+3. C Programming CrashCourse - Bro Code 
+3. C Programming CrashCourse - kodgod
 2. C Programming Playlist - Portfolio Courses
 3. C Programming Playlsit - Neso Academy
 3. C Programming Playlist - Jenny's Lectures CS IT
