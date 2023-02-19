@@ -3,6 +3,7 @@ List Of C Programming Language Examples, Programs and Projects
 
 ## Motivation 
 - Why C is so Influential ? - Computerphile
+- Why C ? - CS50 Podcast
 
 ## Resources
 
