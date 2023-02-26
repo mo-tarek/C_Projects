@@ -16,7 +16,8 @@
     - Mislleanous 
     - Setting your coding environment 
     - Conclusion
-  - Advanced Programming Techniques in C 
+    
+- Advanced Programming Techniques in C 
     - String Functions 
     - Structures 
     - Union
@@ -32,7 +33,8 @@
     - Creating Libraries 
     - Debugging C Programs 
     - Conclusion
-  - Practical Guide To C Programming 
+
+- Practical Guide To C Programming 
     -Getting Started
     - Basic COntrol Flow 
     - Decision Making
