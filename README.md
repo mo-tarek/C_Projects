@@ -31,15 +31,6 @@ List Of C Programming Language Examples, Programs and Projects
 3. Pointers in C/C++
 8. C-Educative [comprehensive course]
 9. C-Pluralsight 
-  - C Language: The Big Picture
-  - Getting Started with the C language 
-  - Variables and Data Types in C18
-  - Managing and Memory Allocation in C 
-  - Using Structures in C 
-  - Working with Functions in C 
-  - Using a C18 Preprocessor
-  - Working with files in C 
-  - Unit Testing C Code in Clion 2020 
 19. C-Linkedin Learning (Dan Gookin)
   - Learning C 
   - C Essential Training 
