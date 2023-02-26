@@ -454,3 +454,15 @@ List Of C Programming Language Examples, Programs and Projects
    - Combinatorial Problems in C
    - Partition Problems in C
    - c algorithms on subset 
+
+
+
+Games in C 
+  - snake game 
+  - tic-tac-toe 
+  - archery game 
+  - egg game 
+  - bricks game 
+  - chess game 
+  - bouncing ball game 
+  - tetris 
