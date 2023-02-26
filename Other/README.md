@@ -1,1 +1,51 @@
-Hello
+- Learn C From Scratch 
+    - Why Program in C? 
+    - Basic Types, Operators and Expressions 
+    - Control Flow 
+    - Functions 
+    - Complex Data Types 
+    - Memory: Stack VS Heap 
+    - Pointers 
+    - Strings 
+    - Input and Output 
+    - Macros and The C Preprocessor 
+    - Compiling, Linking, Makefile, Header files 
+    - Speeding up Your Code 
+    - Advanced Topic 1: A Brief Tour of Some Other Useful C Libraries 
+    - Advanced Topic 2: Parallel Programming In C 
+    - Mislleanous 
+    - Setting your coding environment 
+    - Conclusion
+  - Advanced Programming Techniques in C 
+    - String Functions 
+    - Structures 
+    - Union
+    - Enumerations 
+    - Function Pointers 
+    - Variable Argument Lists 
+    - Working With Bits 
+    - Recursion
+    - Static and Dynamic Memory Allocation
+    - Type Casting and Typedef 
+    - C Under Linux 
+    - Command line Arguments 
+    - Creating Libraries 
+    - Debugging C Programs 
+    - Conclusion
+  - Practical Guide To C Programming 
+    -Getting Started
+    - Basic COntrol Flow 
+    - Decision Making
+    - Loops 
+    - Functions 
+    - Pointers 
+    - Recursion
+    - Preprocessor
+    - Arrays 
+    - Muli-Dimensional Arrays 
+    - Strings 
+    - Structures 
+    - File I/O
+    - Bitwise Operators 
+    - Misc Features 
+    - Conclusion
