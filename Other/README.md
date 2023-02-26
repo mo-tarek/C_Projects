@@ -51,3 +51,14 @@
     - Bitwise Operators 
     - Misc Features 
     - Conclusion
+
+
+- C Language: The Big Picture
+- Getting Started with the C language 
+- Variables and Data Types in C18
+- Managing and Memory Allocation in C 
+- Using Structures in C 
+- Working with Functions in C 
+- Using a C18 Preprocessor
+- Working with files in C 
+- Unit Testing C Code in Clion 2020 
