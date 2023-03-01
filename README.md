@@ -32,20 +32,6 @@ List Of C Programming Language Examples, Programs and Projects
 8. C-Educative [comprehensive course]
 9. C-Pluralsight 
 19. C-Linkedin Learning (Dan Gookin)
-  - Learning C 
-  - C Essential Training 
-  - Advanced C Programming 
-  - Level up C 
-  - C Programming for Embedded Applications 
-  - C: Data Structures, Pointers and file systems
-  - Master C Language Pointers 
-  - Network Programming in C 
-  - Advanced C Programming: Integrating C and Assembly Language 
-  - C Standard Library 
-  - Secure Coding in C 
-  - Code Clininc 
-  - Debugging C Code 
-  - Exploring C Libraries 
 5. C Programming With Linux Specialization- Coursera 
   - C Programming: Getting Started - 1
     - Week 1: Welcome and the History of C
