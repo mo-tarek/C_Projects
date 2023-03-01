@@ -62,3 +62,19 @@
 - Using a C18 Preprocessor
 - Working with files in C 
 - Unit Testing C Code in Clion 2020 
+
+
+  - Learning C 
+  - C Essential Training 
+  - Advanced C Programming 
+  - Level up C 
+  - C Programming for Embedded Applications 
+  - C: Data Structures, Pointers and file systems
+  - Master C Language Pointers 
+  - Network Programming in C 
+  - Advanced C Programming: Integrating C and Assembly Language 
+  - C Standard Library 
+  - Secure Coding in C 
+  - Code Clininc 
+  - Debugging C Code 
+  - Exploring C Libraries 
