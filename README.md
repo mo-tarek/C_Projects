@@ -48,6 +48,11 @@ List Of C Programming Language Examples, Programs and Projects
 ### Books
 
 1. The C Programming Language - Dennis Ritchie & Brian Keringhan
+2. Headfirst C 
+3. Expert C Programming 
+4. C in a nutchell
+5. C Primer Plus 5th Edition
+6. Data Structures Using C
 
 
 ### Programs: w3resoucre
