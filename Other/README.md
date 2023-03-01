@@ -78,3 +78,48 @@
   - Code Clininc 
   - Debugging C Code 
   - Exploring C Libraries 
+  
+  
+  
+    - C Programming: Getting Started - 1
+    - Week 1: Welcome and the History of C
+    - Week 2: Printing, loops, and comments
+    - Week 3: Integers, variables and user input
+    - Week 4: Characters and doubles
+    - Concluding the course
+  - C Programming: Language Foundations - 2
+    - Welcome
+    - Week 1: Logic conditions and if-else statements
+    - Week 2: Arrays, for and while loops
+    - Week 3: Strings, sort and search algorithms
+    - Concluding the course
+  - C Programming: Modular Programming and Memory Management - 3
+    - Welcome
+    - Week 1: Functions and recursion
+    - Week 2: Memory and the scope of variables
+    - Week 3: Pointers
+    - Week 3: Pointers
+  - C Programming: Pointers and Memory Management - 4
+    - Welcome
+    - Week 1: Memory and pointers
+    - Week 2: Multidimensional arrays
+    - Week 3: Dynamic memory allocation
+    - Concluding the course
+  - C Programming: Advanced Data Types - 5
+    - Welcome
+    - Week 1: Structures
+    - Week 2: Structures and pointers
+    - Week 3: Linked lists
+    - Concluding the course
+  - Linux Basics: The Command Line Interface - 6
+    - Welcome
+    - Week 1: History of Linux and the command line
+    - Week 2: The Linux file system
+    - Week 3: C program compilation with gcc
+    - Concluding the course
+  - C Programming: Using Linux Tools and Libraries - 7
+    - Welcome
+    - Week 1: Libraries in C
+    - Week 2: Modularization Libraries and Makefiles
+    - Week 3: File operations in C
+    - Concluding the course
