@@ -28,7 +28,7 @@ List Of C Programming Language Examples, Programs and Projects
 5. Data Structures with C - Great Learning 
 2. Data Structures in C and C++ - FreeCodeCamp 
 3. Algorithms and Data Structures In C and C++ - Abdulbari - Udemy 
-3. Pointers in C/C++
+3. Pointers in C/C++ - FreeCodeCamp
 8. C-Educative [comprehensive course]
 9. C-Pluralsight 
 19. C-Linkedin Learning (Dan Gookin)
